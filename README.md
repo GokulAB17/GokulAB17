@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 ##### 👯 I’m looking to collaborate on ML Projets
 #### 🤔 I’m looking for help with DL/AI
 #### 💬 Ask me about something basic
-#### 📫 How to reach me: will update shortly
+#### 📫 How to reach me: via email gokulachari@gmail.com
 ####😄 Pronouns: 
-#### ⚡ Fun fact: Found this  new readme in GITHUB 
+#### ⚡ Fun fact: Roller Coaster ride in ML/AI
