@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-##Hello Github!!
+##Hello Folks!!!
 
-Here are some ideas to get you started:
+#### Passionate about learning to Code 
 
 ##### 🔭 I’m currently working on Coding skills
 ##### 🌱 I’m currently learning DS/AI/DL
 ##### 👯 I’m looking to collaborate on ML Projets
 #### 🤔 I’m looking for help with DL/AI
-#### 💬 Ask me about something basic
+#### 💬 Ask me about something related to Data Science
 #### 📫 How to reach me: via email gokulachari@gmail.com
-####😄 Pronouns: 
 #### ⚡ Fun fact: Roller Coaster ride in ML/AI
