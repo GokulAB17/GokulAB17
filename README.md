@@ -11,3 +11,6 @@
 #### 💬 Ask me about something related to Data Science
 #### 📫 How to reach me: via email gokulachari@gmail.com
 #### ⚡ Fun fact: Roller Coaster ride in ML/AI
+#### You can contact me on https://zety.com/profile/gokul-achari
+
+
