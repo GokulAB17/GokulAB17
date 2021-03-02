@@ -9,7 +9,7 @@
 ##### 👯 I’m looking to collaborate on ML Projets
 #### 🤔 I’m looking for help with DL/AI
 #### 💬 Ask me about something related to Data Science
-#### 📫 How to reach me: via email gokulachari@gmail.com
+#### 📫 How to reach me: via email work.gokulachari@gmail.com
 
 
 
