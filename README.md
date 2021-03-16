@@ -3,7 +3,7 @@
 ##Hello Folks!!!
 
 #### Passionate about learning to Code and solving challenging Problems Smartly.
-#### I am From 🇮🇳
+#### I am From India..
 ##### 🔭 I’m currently working on NLP Project.
 ##### 🌱 I’m currently learning DS/AI/DL.
 ##### I’m looking to collaborate in ML/AI Projets.
