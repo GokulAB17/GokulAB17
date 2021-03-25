@@ -9,7 +9,7 @@ Skills: Python/ HTML5/CSS/MySQL/Tableau
 
 - 🔭 I’m currently working on ML Project 
 - 🌱 I’m currently learning DS/DeepLearning/AI 
-- 👯 I’m looking to collaborate on DS/ML Projects 
+- 🎉 I’m looking to collaborate on DS/ML Projects 
 - 🤔 I’m looking for help with New Developments in AI/DS 
 - 💬 Ask me about DS/ML Algorithm/AI 
 - 📫 How to reach me: work.gokulachari@gmail.com 
