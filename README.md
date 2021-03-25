@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Gokul
 #### Right now **Project Intern** ...Open to work as **||Data Scientist|| ML Engineer||** 
 
-I am From India 	![image](https://user-images.githubusercontent.com/68609570/112454673-f1f9ae80-8d7e-11eb-8c12-2be144ccd489.png)
+I am From India 	![image](https://user-images.githubusercontent.com/68609570/112454785-0dfd5000-8d7f-11eb-90f4-c453bcd663df.png)
 Passionate about learning to Code and solving challenging Problems Smartly .Having more than 4 years of experience in Chemical Domain.
 
 Skills: Python/ HTML5/CSS/MySQL/Tableau
