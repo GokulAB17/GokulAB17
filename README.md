@@ -3,7 +3,8 @@
 
 I am from INDIA <img src='https://user-images.githubusercontent.com/68609570/112454785-0dfd5000-8d7f-11eb-90f4-c453bcd663df.png' alt='github' height='30' width="30">
 <br>
-Passionate about learning to Code and solving challenging Problems Smartly .Having more than 4 years of experience in Chemical Domain.
+Passionate about learning to Code and solving challenging Problems Smartly .Having more than 4 years of experience in Chemical Industries Operations Domain.
+Chemical Engineer by education Computer Engineer by passion.
 
 Skills: Python/ HTML5/CSS/MySQL/Tableau
 
