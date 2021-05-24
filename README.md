@@ -8,7 +8,7 @@ Chemical Engineer by education Computer Engineer by passion.
 
 Skills: Python/ HTML5/CSS/MySQL/Tableau
 
-- 🔭 I’m currently working on ML Project.       <img src='https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif' alt='coder' height='30' width="30">
+- 🔭 I’m currently working on ML Project.   <span><img src='https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif' alt='coder' height='100' width="100"></span>
 - 🌱 I’m currently learning DS/DeepLearning/AI. 
 - 🎉 I’m looking to collaborate on DS/ML Projects. 
 - 🤔 I’m looking for help with New Developments in AI/DS. 
