@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gokul
-#### Right now **Data Analyst Intern at Growdea Technologies Pvt Ltd** ...Open to work as **||Data Scientist|| ML Engineer|| Business Analyst ||** 
+#### Working as Data Scientist at Tookitaki.ai  
 
 I am from INDIA <img src='https://user-images.githubusercontent.com/68609570/112454785-0dfd5000-8d7f-11eb-90f4-c453bcd663df.png' alt='github' height='30' width="30">
 <br>
